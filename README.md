@@ -28,8 +28,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
-cd foundry-fund-me-f23
+git clone https://github.com/Ankit-O7/Funding_Collection_foundry/edit/main/README.md
+cd foundry-fundMe
 forge build
 ```
 
