@@ -1,6 +1,5 @@
-# Foundry Fund Me
+# Funding Collection
 
-- [Foundry Fund Me](#foundry-fund-me)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
